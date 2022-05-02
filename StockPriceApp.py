@@ -6,7 +6,7 @@ st.write("""
 Stock Price App
 """)
 
-tickerSymbol = 'GOOGL'
+tickerSymbol = 'AMZN'
 
 tickerData = yf.Ticker(tickerSymbol)
 
